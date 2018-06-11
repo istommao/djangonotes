@@ -1,0 +1,2 @@
+# djangonotes
+django notes
